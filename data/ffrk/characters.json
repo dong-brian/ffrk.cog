@@ -1,0 +1,236 @@
+{
+    "Core" : 
+    [
+        "Tyro",
+        "Warrior",
+        "Knight",
+        "Monk",
+        "Red Mage",
+        "Black Mage",
+        "Magus",
+        "White Mage",
+        "Devout",
+        "Summoner",
+        "Samurai",
+        "Dragoon",
+        "Dark Knight",
+        "Spellblade",
+        "Viking",
+        "Berserker",
+        "Ranger",
+        "Thief",
+        "Bard",
+        "Ninja",
+        "Gladiator"
+    ],
+    
+    "1" :
+    [
+        "Warrior of Light",
+        "Wol",
+        "Garland",
+        "Sarah",
+        "Echo",
+        "Master Monk",
+        "Matoya"
+    ],
+    
+    "2" :
+    [
+        "Firion",
+        "Maria",
+        "Guy",
+        "Leon",
+        "Minwu",
+        "Gordon",
+        "Leila",
+        "Ricard",
+        "Josef",
+        "Emperor"
+    ],
+    
+    "3" :
+    [
+        "Luneth",
+        "Arc",
+        "Refia",
+        "Ingus",
+        "Desch",
+        "Onion Knight",
+        "Cloud of Darkness"
+    ],
+    
+    "4" :
+    [
+        "Dark Knight Cecil",
+        "Paladin Cecil",
+        "Kain",
+        "Rydia",
+        "Rosa",
+        "Edward",
+        "Yang",
+        "Palom",
+        "Porom",
+        "Tellah",
+        "Edge",
+        "Fusoya",
+        "Golbez",
+        "Cid (IV)"
+    ],
+    
+    "5" :
+    [
+        "Lenna",
+        "Galuf",
+        "Gilgamesh",
+        "Bartz",
+        "Faris",
+        "Dorgann",
+        "Exdeath",
+        "Krile"
+    ],
+    
+    "6" :
+    [
+        "Terra",
+        "Locke",
+        "Celes",
+        "Mog",
+        "Edgar",
+        "Sabin",
+        "Shadow",
+        "Cyan",
+        "Gau",
+        "Setzer",
+        "Strago",
+        "Relm",
+        "Kefka",
+        "Leo Cristophe"
+    ],
+    
+    "7" :
+    [
+        "Cloud",
+        "Barret",
+        "Tifa",
+        "Aerith",
+        "Red XIII",
+        "Yuffie",
+        "Cait Sith",
+        "Vincent",
+        "Zack",
+        "Sephiroth",
+        "Cid (VII)",
+        "Reno",
+        "Angeal",
+        "Rufus"
+    ],
+    
+    "8" :
+    [
+        "Squall",
+        "Rinoa",
+        "Quistis",
+        "Zell",
+        "Selphie",
+        "Irvine",
+        "Seifer",
+        "Laguna",
+        "Edea",
+        "Fujin",
+        "Raijin"
+    ],
+    
+    "9" :
+    [
+        "Zidane",
+        "Garnet",
+        "Vivi",
+        "Steiner",
+        "Freya",
+        "Quina",
+        "Eiko",
+        "Amarant",
+        "Beatrix",
+        "Kuja"
+    ],
+    
+    "10" :
+    [
+        "Tidus",
+        "Yuna",
+        "Wakka",
+        "Lulu",
+        "Kimahri",
+        "Rikku",
+        "Auron",
+        "Jecht",
+        "Braska",
+        "Paine",
+        "Seymour"
+    ],
+    
+    "11" :
+    [
+        "Shantotto",
+        "Ayame",
+        "Curilla",
+        "Prishe",
+        "Lion"
+    ],
+    
+    "12" :
+    [
+        "Vaan",
+        "Balthier",
+        "Fran",
+        "Basch",
+        "Ashe",
+        "Penelo",
+        "Gabranth",
+        "Larsa",
+        "Vayne"
+    ],
+    
+    "13" :
+    [
+        "Lightning",
+        "Snow",
+        "Vanille",
+        "Sazh",
+        "Hope",
+        "Fang",
+        "Serah",
+        "Raines",
+        "Noel"
+    ],
+    
+    "14" :
+    [
+        "Y'shtola",
+        "Thancred",
+        "Yda",
+        "Papalymo",
+        "Alphinaud",
+        "Minfilia"
+    ],
+    
+    "Tactics" :
+    [
+        "Ramza",
+        "Agrias",
+        "Delita",
+        "Ovelia",
+        "Mustadio",
+        "Orlandeau",
+        "Gaffgarion",
+        "Rafa",
+        "Malak"
+    ],
+    
+    "Beyond" :
+    [
+        "Lann",
+        "Reynn"
+    ]
+}
